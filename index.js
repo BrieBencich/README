@@ -1,7 +1,8 @@
 const fs = require ("fs"); 
 const path = require("path"); 
-const generateMarkdown = require("./utils/generateMarkdown");
-const inquirer = require ("./utils/generateMarkdown"); 
+const inquirer = require ("inquirer"); 
+const generateMarkdown = require("./develop/utils/generateMarkdown");
+
 
 // array of questions for user
 const questions = [
