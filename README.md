@@ -6,7 +6,7 @@
 
   ## Table of Contents 
 
-  * [Installation](#intallation)
+  *[Installation](#intallation)
 
   *[Usage](#usage)
   
@@ -22,11 +22,11 @@
 
   To install dependencies, please run this command: 
   ```
-  npm install inqurier
+  npm install inquirer
   ```
 
   ## Usage 
-  this repo contains an inex.js as well as a generateMarkdown.js you will need to install the dependecie, in order to get it to work.
+  this repo will need to be cloned, and then add the npm dependencie through your command line. The initial files include an index.js, as well as the generatorMarkdown.js. In order to get this application to work, just instal the dependecie
   ## License
       This project is licesned with undefined license
 
