@@ -1,0 +1,25 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "a application to generate a readme file through the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrieBencich/README.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "brie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrieBencich/README/issues"
+  },
+  "homepage": "https://github.com/BrieBencich/README#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
