@@ -1,5 +1,20 @@
+const fs = require ("fs"); 
+const path = require("path"); 
+const inquirer = require ("./utils/generateMarkdown"); 
+
 // array of questions for user
 const questions = [
+    {
+        type: "input", 
+        name: "github", 
+        message: "What is your Github username?"
+    },{
+        type: "input", 
+        name: "title", 
+        message: "What is your project's name?"
+    },{
+        
+    }
 
 ];
 
